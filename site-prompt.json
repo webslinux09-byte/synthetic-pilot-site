@@ -41,5 +41,12 @@
   ],
   "source_urls": [
     "https://example.com/synthetic-source"
-  ]
+  ],
+  "implementation_constraints": {
+    "one_page_equals_one_html_file": true,
+    "single_page_site": "index.html only",
+    "css": "inline in a style element",
+    "javascript": "inline in a script element",
+    "separate_css_or_js_files": false
+  }
 }
