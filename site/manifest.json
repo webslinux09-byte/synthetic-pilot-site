@@ -1,0 +1,6 @@
+{
+  "generator": "client-system-static-v1",
+  "source_urls": [
+    "https://example.com/synthetic-source"
+  ]
+}

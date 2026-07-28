@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+*.pem
+*.key
+*.token
+__pycache__/
+secrets/

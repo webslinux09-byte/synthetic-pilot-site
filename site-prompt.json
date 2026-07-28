@@ -1,0 +1,45 @@
+{
+  "language": "cs",
+  "company": "Ukázkové studio",
+  "title": "Ukázkové studio — syntetický pilot",
+  "meta_description": "Syntetická ukázka jednoduchého webu bez skutečných klientských nebo kontaktních údajů.",
+  "brand": {
+    "primary_color": "#155e75",
+    "accent_color": "#f59e0b"
+  },
+  "hero": {
+    "heading": "Jednoduchý web pro jasnou nabídku",
+    "subheading": "Tato stránka slouží pouze k technickému ověření generování, verzování a bezpečného nasazení.",
+    "primary_cta": {
+      "label": "Zobrazit postup",
+      "href": "#postup"
+    }
+  },
+  "sections": [
+    {
+      "id": "sluzby",
+      "heading": "Co pilot ověřuje",
+      "body": "Oddělený veřejný repozitář obsahuje jen syntetická data a výsledné statické soubory.",
+      "bullets": [
+        "žádné osobní údaje",
+        "žádné tokeny ani cookies",
+        "žádné skutečné kontakty",
+        "žádné automatické oslovení"
+      ]
+    },
+    {
+      "id": "postup",
+      "heading": "Bezpečný postup",
+      "body": "Nejdříve se ověří lokální build a obsah repozitáře. Publikace a nasazení následují až po samostatném schválení a dostupnosti cílových účtů.",
+      "bullets": [
+        "lokální sestavení",
+        "kontrola manifestu",
+        "kontrola citlivých údajů",
+        "teprve potom vzdálený repozitář"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://example.com/synthetic-source"
+  ]
+}
